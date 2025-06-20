@@ -1,0 +1,24 @@
+body {
+  font-family: system-ui, sans-serif;
+  margin: 0 auto;
+  max-width: 800px;
+  padding: 2rem;
+  line-height: 1.6;
+  background: #fdfdfd;
+  color: #333;
+}
+h1, h2 {
+  color: #222;
+}
+.section {
+  border-bottom: 1px solid #ddd;
+  padding: 1rem 0;
+  cursor: pointer;
+}
+.content {
+  display: none;
+  padding-top: 0.5rem;
+}
+a {
+  color: #007acc;
+}
