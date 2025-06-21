@@ -65,7 +65,7 @@ BASc in Engineering Science @ University of Toronto
     <div>
         <h2>🎓 About Me</h2>
     </div>
-    <div id="about" class="content">
+    <div class="content">
         <p>BASc in Engineering Science @ University of Toronto</p>
         <p></p>
     </div>
@@ -75,7 +75,7 @@ BASc in Engineering Science @ University of Toronto
     <div>
         <h2>💼 Experience</h2>
     </div>
-    <div id="experience" class="content">
+    <div class="content">
         <ul>
             <li><strong>University of Toronto</strong>: Research Assistant - Conducted Research on diffusion video generation and its robots applications.</li>
             <li><strong>Advanced Micro Devices (AMD)</strong>: Analog Design Intern - Developed internal workflows capitalizing on machine learning techniques for silicon layout.</li>
@@ -89,7 +89,7 @@ BASc in Engineering Science @ University of Toronto
     <div>
         <h2>🧰 Skills</h2>
     </div>
-    <div id="skills" class="content">
+    <div class="content">
         <p><strong>Languages:</strong> Python, Perl, C/C++, Verilog, MATLAB, TCL, Java, Javascript</p>
         <p><strong>Tools:</strong> Cadence Virtuoso, Calibre, HSpice, Git, LaTeX, Atlassian Tools</p>
     </div>
@@ -99,7 +99,7 @@ BASc in Engineering Science @ University of Toronto
     <div>
         <h2>📫 Contact</h2>
     </div>
-    <div id="contact" class="content">
+    <div class="content">
         <p>Email: <a href="roderick.y.wu@mail.utoronto.ca" target="_blank">roderick.wu@mail.utoronto.ca</p>
         <p>GitHub: <a href="https://github.com/Roderick-Wu" target="_blank">Roderick-Wu</a></p>
         <p>LinkedIn: <a href="https://www.linkedin.com/in/roderick--wu/" target="_blank">Roderick Wu</a></p>
