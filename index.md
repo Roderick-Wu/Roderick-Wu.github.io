@@ -22,7 +22,7 @@ I'm an Engineering Science student specializing in Robotics.
 
 
 
----
+<!-- ---
 
 ## 🎓 About Me {#about}
 
@@ -55,21 +55,21 @@ BASc in Engineering Science @ University of Toronto
 - **Email**: roderick.wu@mail.utoronto.ca
 - **GitHub**: [Roderick-Wu](https://github.com/Roderick-Wu)  
 - **LinkedIn**: [Roderick Wu](https://www.linkedin.com/in/roderick--wu)
+ -->
 
 
 
 
-<!-- 
 
-<div class="section" onclick="toggleSection('about')">
+<section id="about">
     <h2>🎓 About Me</h2>
-        <div id="about" class="content">
+    <div id="about" class="content">
         <p>BASc in Engineering Science @ University of Toronto</p>
         <p></p>
     </div>
-</div>
+</section>
 
-<div class="section" onclick="toggleSection('experience')">
+<section id="experience">
     <h2>💼 Experience</h2>
     <div id="experience" class="content">
         <ul>
@@ -79,21 +79,21 @@ BASc in Engineering Science @ University of Toronto
             <li><strong>Diversio</strong>: Software Engineering Intern - Developed MVP using React and Node.js, developed internal tooling for data transformations.</li>
         </ul>
     </div>
-</div>
+</section>
 
-<div class="section" onclick="toggleSection('skills')">
+<section id="skills">
     <h2>🧰 Skills</h2>
-        <div id="skills" class="content">
+    <div id="skills" class="content">
         <p><strong>Languages:</strong> Python, Perl, C/C++, Verilog, MATLAB, TCL, Java, Javascript</p>
         <p><strong>Tools:</strong> Cadence Virtuoso, Calibre, HSpice, Git, LaTeX, Atlassian Tools</p>
     </div>
-</div>
+</section>
 
-<div class="section" onclick="toggleSection('contact')">
+<section id = "contact">
     <h2>📫 Contact</h2>
-        <div id="contact" class="content">
+    <div id="contact" class="content">
         <p>Email: <a href="roderick.y.wu@mail.utoronto.ca" target="_blank">roderick.wu@mail.utoronto.ca</p>
         <p>GitHub: <a href="https://github.com/Roderick-Wu" target="_blank">Roderick-Wu</a></p>
         <p>LinkedIn: <a href="https://www.linkedin.com/in/roderick--wu/" target="_blank">Roderick Wu</a></p>
     </div>
-</div> -->
+</section>
