@@ -10,7 +10,7 @@ I'm an Engineering Science student specializing in Electrical and Computer Engin
 <div class="section" onclick="toggleSection('about')">
   <h2>🎓 About Me</h2>
   <div id="about" class="content">
-    <p>BASc in Engineering Science @ University of Toronto (cGPA 3.87/4.0)</p>
+    <p>BASc in Engineering Science @ University of Toronto</p>
     <p>Focused on neural interfaces, CMOS design, and real-time systems.</p>
   </div>
 </div>
