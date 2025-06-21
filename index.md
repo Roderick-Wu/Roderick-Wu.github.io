@@ -4,9 +4,6 @@ title: "Home"
 ---
 
 
-{% include_relative index.html %}
-
-
 # 👋 Hi, I'm Roderick
 
 I'm an Engineering Science student specializing in Robotics. 
@@ -19,7 +16,6 @@ I'm an Engineering Science student specializing in Robotics.
 <nav class="nav-links">
   <a href="#about">About Me</a> |
   <a href="#experience">Experience</a> |
-  <a href="#projects">Projects</a> |
   <a href="#skills">Skills</a> |
   <a href="#contact">Contact</a>
 </nav>
