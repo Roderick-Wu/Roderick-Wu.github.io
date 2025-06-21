@@ -62,7 +62,9 @@ BASc in Engineering Science @ University of Toronto
 
 
 <section id="about">
-    <h2>🎓 About Me</h2>
+    <div>
+        <h2>🎓 About Me</h2>
+    </div>
     <div id="about" class="content">
         <p>BASc in Engineering Science @ University of Toronto</p>
         <p></p>
@@ -70,7 +72,9 @@ BASc in Engineering Science @ University of Toronto
 </section>
 
 <section id="experience">
-    <h2>💼 Experience</h2>
+    <div>
+        <h2>💼 Experience</h2>
+    </div>
     <div id="experience" class="content">
         <ul>
             <li><strong>University of Toronto</strong>: Research Assistant - Conducted Research on diffusion video generation and its robots applications.</li>
@@ -82,7 +86,9 @@ BASc in Engineering Science @ University of Toronto
 </section>
 
 <section id="skills">
-    <h2>🧰 Skills</h2>
+    <div>
+        <h2>🧰 Skills</h2>
+    </div>
     <div id="skills" class="content">
         <p><strong>Languages:</strong> Python, Perl, C/C++, Verilog, MATLAB, TCL, Java, Javascript</p>
         <p><strong>Tools:</strong> Cadence Virtuoso, Calibre, HSpice, Git, LaTeX, Atlassian Tools</p>
@@ -90,7 +96,9 @@ BASc in Engineering Science @ University of Toronto
 </section>
 
 <section id = "contact">
-    <h2>📫 Contact</h2>
+    <div>
+        <h2>📫 Contact</h2>
+    </div>
     <div id="contact" class="content">
         <p>Email: <a href="roderick.y.wu@mail.utoronto.ca" target="_blank">roderick.wu@mail.utoronto.ca</p>
         <p>GitHub: <a href="https://github.com/Roderick-Wu" target="_blank">Roderick-Wu</a></p>
