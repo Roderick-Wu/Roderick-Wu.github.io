@@ -3,15 +3,19 @@ layout: default
 title: "Home"
 ---
 
-# 👋 Hi, I'm Roderick Wu
 
-I'm an Engineering Science student specializing in Electrical and Computer Engineering. Here’s a quick summary of what I do — click on each section for more details!
+{% include_relative index.html %}
+
+
+<!-- # 👋 Hi, I'm Roderick
+
+I'm an Engineering Science student specializing in Robotics. Here’s a quick summary of what I do — click on each section for more details!
 
 <div class="section" onclick="toggleSection('about')">
   <h2>🎓 About Me</h2>
   <div id="about" class="content">
     <p>BASc in Engineering Science @ University of Toronto</p>
-    <p>Focused on neural interfaces, CMOS design, and real-time systems.</p>
+    <p></p>
   </div>
 </div>
 
@@ -38,16 +42,16 @@ I'm an Engineering Science student specializing in Electrical and Computer Engin
 <div class="section" onclick="toggleSection('skills')">
   <h2>🧰 Skills</h2>
   <div id="skills" class="content">
-    <p><strong>Languages:</strong> Python, C/C++, Verilog, MATLAB, Perl</p>
-    <p><strong>Tools:</strong> Cadence Virtuoso, HSpice, PyTorch, Git, LaTeX</p>
+    <p><strong>Languages:</strong> Python, Perl, C/C++, Verilog, MATLAB, TCL, Java, Javascript</p>
+    <p><strong>Tools:</strong> Cadence Virtuoso, Calibre, HSpice, PyTorch, Git, LaTeX, Atlassian Tools</p>
   </div>
 </div>
 
 <div class="section" onclick="toggleSection('contact')">
   <h2>📫 Contact</h2>
   <div id="contact" class="content">
-    <p>Email: roderick.wu@email.com</p>
-    <p>GitHub: <a href="https://github.com/yourusername" target="_blank">yourusername</a></p>
-    <p>LinkedIn: <a href="https://linkedin.com/in/yourprofile" target="_blank">yourprofile</a></p>
+    <p>Email: <a href="roderick.y.wu@mail.utoronto.ca" target="_blank">roderick.wu@mail.utoronto.ca</p>
+    <p>GitHub: <a href="https://github.com/Roderick-Wu" target="_blank">Roderick-Wu</a></p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/roderick--wu/" target="_blank">Roderick Wu</a></p>
   </div>
-</div>
+</div> -->
