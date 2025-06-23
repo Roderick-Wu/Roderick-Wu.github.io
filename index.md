@@ -16,7 +16,7 @@ I'm an Engineering Science student @ UofT specializing in Robotics.
     <a href="#experience">Experience</a> |
     <a href="#skills">Skills</a> |
     <a href="#contact">Contact</a> -->
-    <div class="nav-title">Roderick Wu</div>
+    <span class="nav-title">Roderick Wu</span>
     <div class="nav-buttons">
         <button onclick="location.href='#about'">About</button>
         <button onclick="location.href='#experience'">Experience</button>
