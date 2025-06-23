@@ -4,7 +4,7 @@ body {
   max-width: 800px;
   padding: 2rem;
   line-height: 1.6;
-  background: #0088ff;
+  background: #ffffff;
   color: #333;
 
 }
@@ -21,6 +21,13 @@ h1 {
   padding: 1rem 0;
   cursor: pointer;
 } */
+ .navigation {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem 2rem 2rem;
+  background-color: #d8edff;
+ }
 .content {
   /* display: none; */
   padding-top: 0.5rem;
@@ -32,7 +39,7 @@ a {
 
 .section-fullscreen {
   height: 100vh;
-  padding: 5rem 2rem 2rem;
+  padding: 4rem 2rem 2rem 2rem;
   box-sizing: border-box;
   display: flex;
   flex-direction: column;
