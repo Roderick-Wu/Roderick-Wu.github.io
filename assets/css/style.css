@@ -11,9 +11,12 @@ h1, h2 {
   color: #222;
 }
 .section {
-  border-bottom: 1px solid #ddd;
-  padding: 1rem 0;
-  cursor: pointer;
+  height: 100vh;
+  padding: 5rem 2rem 2rem;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
 }
 .content {
   /* display: none; */
@@ -23,14 +26,14 @@ a {
   color: #007acc;
 }
 
-.section-fullscreen {
+/* .section-fullscreen {
   height: 100vh;
   padding: 5rem 2rem 2rem;
   box-sizing: border-box;
   display: flex;
   flex-direction: column;
   justify-content: left;
-}
+} */
 
 .bg-about      { background-color: #0088ff; }
 .bg-experience { background-color: #0088ffa1; }
