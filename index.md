@@ -50,7 +50,7 @@ BASc in Engineering Science @ University of Toronto
     <a href="#experience">Experience</a> |
     <a href="#skills">Skills</a> |
     <a href="#contact">Contact</a> -->
-    <span class="nav-title">Roderick Wu</span>
+    <button class="nav-title" onclick="location.href='#title-card'">Roderick Wu</button>
     <div class="nav-buttons">
         <button onclick="location.href='#about'">About</button>
         <button onclick="location.href='#experience'">Experience</button>
@@ -65,7 +65,7 @@ BASc in Engineering Science @ University of Toronto
 
 <section id="title-card" class="section-fullscreen">
     <div>
-        <htitle>hi, I'm Roderick</htitle>
+        <htitle>Hi, I'm Roderick</htitle>
     </div>
 </section>
 

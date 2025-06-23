@@ -1,3 +1,4 @@
+
 body {
   margin: 0;
   font-family: system-ui, sans-serif;
@@ -24,7 +25,8 @@ htitle {
 }
 
 h1 {
-  color: #222;
+  color: #284b63;
+  text-align: center;
 }
 /* .section {
   border-bottom: 1px solid #ddd;
@@ -70,11 +72,20 @@ h1 {
   transition: background-color 0.2s ease;
 }
 .nav-title {
+  background: none;
+  border: none;
+  color: #333;
   font-size: 1.25rem;
   font-weight: bold;
-  color: #353535;
+  cursor: pointer;
+  padding: 0.5rem 0.75rem;
+  text-decoration: none;
+  transition: color 0.2s ease;
   white-space: nowrap;
-  margin-right: auto;
+}
+.nav-title:hover {
+  color: #3c6e71;
+  text-decoration: underline;
 }
 .nav-buttons {
   display: flex;
