@@ -31,3 +31,8 @@ a {
   flex-direction: column;
   justify-content: left;
 }
+
+.bg-about      { background-color: #0088ff; }
+.bg-experience { background-color: #0088ffa1; }
+.bg-skills     { background-color: #0088ff; }
+.bg-contact    { background-color: #0088ffa1; }
