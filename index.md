@@ -3,12 +3,6 @@ layout: default
 title: "Home"
 ---
 
-<section id="title-card" class="section-fullscreen">
-    <div>
-        <htitle>hi, I'm Roderick</htitle>
-    </div>
-</section>
-
 <!-- <div id="nav" class="navigation"> -->
 <nav class="nav-links">
     <!-- <a href="#about">About Me</a> |
@@ -23,6 +17,17 @@ title: "Home"
         <button onclick="location.href='#contact'">Contact</button>
     </div>
 </nav>
+
+
+<div class="nav-spacer"></div>
+
+<section id="title-card" class="section-fullscreen">
+    <div>
+        <htitle>hi, I'm Roderick</htitle>
+    </div>
+</section>
+
+
 
 <!-- ---
 

@@ -46,11 +46,11 @@ h1 {
   backdrop-filter: blur(4px);
   display: flex;
   align-items: center;
-  justify-content: space-between;
   padding: 0 2rem;
   box-sizing: border-box;
   z-index: 1000;
   border-bottom: 1px solid #eee;
+  overflow-x: auto;
 }
 .nav-links button {
   background-color: #353535;
@@ -69,6 +69,14 @@ h1 {
   color: #353535;
   white-space: nowrap;
 }
+.nav-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  justify-content: flex-end;
+  max-width: 100%;
+  overflow-x: auto;
+}
 .nav-buttons button {
   background: none;
   border: none;
@@ -82,7 +90,7 @@ h1 {
 }
 .nav-buttons button:hover {
   color: #3c6e71;
-  text-decoration: underline;
+  /* text-decoration: underline; */
 }
 
 .content {
