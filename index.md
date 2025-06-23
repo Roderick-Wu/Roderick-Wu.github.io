@@ -13,7 +13,7 @@ I'm an Engineering Science student specializing in Robotics.
 
 ## 📌 Navigation
 
-<nav class="nav-links">
+<nav>
   <a href="#about">About Me</a> |
   <a href="#experience">Experience</a> |
   <a href="#skills">Skills</a> |
@@ -63,7 +63,7 @@ BASc in Engineering Science @ University of Toronto
 
 <section id="about" class="section-fullscreen bg-about">
     <div>
-        <h2>🎓 About Me</h2>
+        <h1>🎓 About Me</h1>
     </div>
     <div id="about-content" class="content">
         <p>BASc in Engineering Science @ University of Toronto</p>
@@ -73,7 +73,7 @@ BASc in Engineering Science @ University of Toronto
 
 <section id="experience" class="section-fullscreen bg-experience">
     <div>
-        <h2>💼 Experience</h2>
+        <h1>💼 Experience</h1>
     </div>
     <div id="experience-content" class="content">
         <ul>
@@ -87,7 +87,7 @@ BASc in Engineering Science @ University of Toronto
 
 <section id="skills" class="section-fullscreen bg-skills">
     <div>
-        <h2>🧰 Skills</h2>
+        <h1>🧰 Skills</h1>
     </div>
     <div id="skills-content" class="content">
         <p><strong>Languages:</strong> Python, Perl, C/C++, Verilog, MATLAB, TCL, Java, Javascript</p>
@@ -97,7 +97,7 @@ BASc in Engineering Science @ University of Toronto
 
 <section id = "contact" class="section-fullscreen bg-contact">
     <div>
-        <h2>📫 Contact</h2>
+        <h1>📫 Contact</h1>
     </div>
     <div id="contact-content" class="content">
         <p>Email: <a href="roderick.y.wu@mail.utoronto.ca" target="_blank">roderick.wu@mail.utoronto.ca</a></p>

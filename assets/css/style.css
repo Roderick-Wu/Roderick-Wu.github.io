@@ -6,8 +6,14 @@ body {
   line-height: 1.6;
   background: #0088ff;
   color: #333;
+
 }
-h1, h2 {
+
+html {
+  scroll-behavior: smooth;
+}
+
+h1 {
   color: #222;
 }
 /* .section {
@@ -18,6 +24,7 @@ h1, h2 {
 .content {
   /* display: none; */
   padding-top: 0.5rem;
+  font-size: 1.5rem
 }
 a {
   color: #007acc;
@@ -32,7 +39,7 @@ a {
   justify-content: left;
 }
 
-.bg-about      { background-color: #0088ff; }
-.bg-experience { background-color: #0088ffa1; }
-.bg-skills     { background-color: #0088ff; }
-.bg-contact    { background-color: #0088ffa1; }
+.bg-about      { background-color: #c0e2ff; }
+.bg-experience { background-color: #d8edff; }
+.bg-skills     { background-color: #c0e2ff; }
+.bg-contact    { background-color: #d8edff; }
