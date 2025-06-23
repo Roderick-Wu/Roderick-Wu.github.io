@@ -66,6 +66,7 @@ BASc in Engineering Science @ University of Toronto
 <section id="title-card" class="section-fullscreen">
     <div>
         <htitle>Hi, I'm Roderick</htitle>
+        <p>Welcome to my personal website.</p>
     </div>
 </section>
 
@@ -74,8 +75,10 @@ BASc in Engineering Science @ University of Toronto
         <h1>About Me</h1>
     </div>
     <div id="about-content" class="content">
-        <p>BASc in Engineering Science @ University of Toronto</p>
-        <p></p>
+        <p>I'm currently an Engineering Student at the University of Toronto.</p>
+        <p>Currently working at AMD.</p>
+        <p>I'm currently exploring AI architecture and understanding embedding space. I care about "opening up" these black boxes. </p>
+        <p>Most importantly, I'm always learning. </p>
     </div>
 </section>
 
@@ -113,7 +116,7 @@ BASc in Engineering Science @ University of Toronto
             <svg class="contact-icon" viewBox="0 0 24 24">
                 <path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/>
             </svg>
-            <a href="mailto:roderick.wu@mail.utoronto.ca" target="_blank" class="contact-link email-link">Email</a>
+            <a href="mailto:roderick.wu@mail.utoronto.ca" target="_blank" class="contact-link email-link">roderick.wu@mail.utoronto.ca</a>
         </div>
         
         <div class="contact-item">
