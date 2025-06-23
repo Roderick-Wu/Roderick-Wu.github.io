@@ -105,5 +105,3 @@ BASc in Engineering Science @ University of Toronto
         <p>LinkedIn: <a href="https://www.linkedin.com/in/roderick--wu/" target="_blank">Roderick Wu</a></p>
     </div>
 </section>
-
-</body>
