@@ -8,20 +8,21 @@ title: "Home"
 
 I'm an Engineering Science student specializing in Robotics. 
 
-
 ---
-
-## 
 
 <div id="nav" class="navigation">
     <h1>
         📌 Navigation
     </h1>
-    <nav>
-        <a href="#about">About Me</a> |
+    <nav class="nav-links">
+        <!-- <a href="#about">About Me</a> |
         <a href="#experience">Experience</a> |
         <a href="#skills">Skills</a> |
-        <a href="#contact">Contact</a>
+        <a href="#contact">Contact</a> -->
+        <button onclick="location.href='#about'">About</button>
+        <button onclick="location.href='#experience'">Experience</button>
+        <button onclick="location.href='#skills'">Skills</button>
+        <button onclick="location.href='#contact'">Contact</button>
     </nav>
 </div>
 
@@ -64,9 +65,9 @@ BASc in Engineering Science @ University of Toronto
 
 <body>
 
-<section id="about" class="section-fullscreen bg-about">
+<section id="about" class="section-fullscreen">
     <div>
-        <h1>🎓 About Me</h1>
+        <h1>About Me</h1>
     </div>
     <div id="about-content" class="content">
         <p>BASc in Engineering Science @ University of Toronto</p>
@@ -74,9 +75,9 @@ BASc in Engineering Science @ University of Toronto
     </div>
 </section>
 
-<section id="experience" class="section-fullscreen bg-experience">
+<section id="experience" class="section-fullscreen">
     <div>
-        <h1>💼 Experience</h1>
+        <h1>Experience</h1>
     </div>
     <div id="experience-content" class="content">
         <ul>
@@ -88,9 +89,9 @@ BASc in Engineering Science @ University of Toronto
     </div>
 </section>
 
-<section id="skills" class="section-fullscreen bg-skills">
+<section id="skills" class="section-fullscreen">
     <div>
-        <h1>🧰 Skills</h1>
+        <h1>Skills</h1>
     </div>
     <div id="skills-content" class="content">
         <p><strong>Languages:</strong> Python, Perl, C/C++, Verilog, MATLAB, TCL, Java, Javascript</p>
@@ -98,9 +99,9 @@ BASc in Engineering Science @ University of Toronto
     </div>
 </section>
 
-<section id = "contact" class="section-fullscreen bg-contact">
+<section id = "contact" class="section-fullscreen">
     <div>
-        <h1>📫 Contact</h1>
+        <h1>Contact</h1>
     </div>
     <div id="contact-content" class="content">
         <p>Email: <a href="roderick.y.wu@mail.utoronto.ca" target="_blank">roderick.wu@mail.utoronto.ca</a></p>

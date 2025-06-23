@@ -26,12 +26,33 @@ h1 {
   justify-content: space-between;
   align-items: center;
   padding: 1rem 2rem 2rem 2rem;
-  background-color: #d8edff;
+  background-color: #ffffff;
  }
+ .nav-links {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background: #ffffffcc;
+  backdrop-filter: blur(4px);
+  text-align: center;
+  padding: 0.75rem;
+  z-index: 1000;
+ }
+.nav-links button {
+  background-color: #007acc;
+  color: white;
+  border: none;
+  border-radius: 0.4rem;
+  margin: 0 0.5rem;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
 .content {
   /* display: none; */
   padding-top: 0.5rem;
-  font-size: 1.5rem
+  font-size: 1.2rem
 }
 a {
   color: #007acc;
@@ -46,7 +67,7 @@ a {
   justify-content: left;
 }
 
-.bg-about      { background-color: #c0e2ff; }
+/* .bg-about      { background-color: #c0e2ff; }
 .bg-experience { background-color: #d8edff; }
 .bg-skills     { background-color: #c0e2ff; }
-.bg-contact    { background-color: #d8edff; }
+.bg-contact    { background-color: #d8edff; } */
