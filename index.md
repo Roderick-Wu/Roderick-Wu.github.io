@@ -13,12 +13,14 @@ I'm an Engineering Science student specializing in Robotics.
 
 ## 📌 Navigation
 
-<nav class="navigation">
-  <a href="#about">About Me</a> |
-  <a href="#experience">Experience</a> |
-  <a href="#skills">Skills</a> |
-  <a href="#contact">Contact</a>
-</nav>
+<div id="nav" class="navigation">
+    <nav>
+        <a href="#about">About Me</a> |
+        <a href="#experience">Experience</a> |
+        <a href="#skills">Skills</a> |
+        <a href="#contact">Contact</a>
+    </nav>
+</div>
 
 <!-- ---
 
