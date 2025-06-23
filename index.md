@@ -61,7 +61,7 @@ BASc in Engineering Science @ University of Toronto
 
 
 
-<section id="about">
+<section id="about" class="section-fullscreen">
     <div>
         <h2>🎓 About Me</h2>
     </div>
@@ -71,7 +71,7 @@ BASc in Engineering Science @ University of Toronto
     </div>
 </section>
 
-<section id="experience">
+<section id="experience" class="section-fullscreen">
     <div>
         <h2>💼 Experience</h2>
     </div>
@@ -85,7 +85,7 @@ BASc in Engineering Science @ University of Toronto
     </div>
 </section>
 
-<section id="skills">
+<section id="skills" class="section-fullscreen">
     <div>
         <h2>🧰 Skills</h2>
     </div>
@@ -95,7 +95,7 @@ BASc in Engineering Science @ University of Toronto
     </div>
 </section>
 
-<section id = "contact">
+<section id = "contact" class="section-fullscreen">
     <div>
         <h2>📫 Contact</h2>
     </div>
