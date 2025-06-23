@@ -11,9 +11,12 @@ I'm an Engineering Science student specializing in Robotics.
 
 ---
 
-## 📌 Navigation
+## 
 
 <div id="nav" class="navigation">
+    <h1>
+        📌 Navigation
+    </h1>
     <nav>
         <a href="#about">About Me</a> |
         <a href="#experience">Experience</a> |
