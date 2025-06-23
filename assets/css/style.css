@@ -118,6 +118,21 @@ a {
   justify-content: left;
 }
 
+
+
+.contact-item {
+    display: flex;
+    align-items: center;
+    margin: 1.5rem 0;
+    font-size: 1.1rem;
+}
+.contact-icon {
+    width: 32px;
+    height: 32px;
+    margin-right: 1rem;
+    flex-shrink: 0;
+}
+
 /* .bg-about      { background-color: #c0e2ff; }
 .bg-experience { background-color: #d8edff; }
 .bg-skills     { background-color: #c0e2ff; }
