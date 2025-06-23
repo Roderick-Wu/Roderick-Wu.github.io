@@ -4,27 +4,26 @@ title: "Home"
 ---
 
 
-# 👋 Hi, I'm Roderick
+# Hi, I'm Roderick
 
-I'm an Engineering Science student specializing in Robotics. 
+I'm an Engineering Science student @ UofT specializing in Robotics. 
 
 ---
 
-<div id="nav" class="navigation">
-    <h1>
-        📌 Navigation
-    </h1>
-    <nav class="nav-links">
-        <!-- <a href="#about">About Me</a> |
-        <a href="#experience">Experience</a> |
-        <a href="#skills">Skills</a> |
-        <a href="#contact">Contact</a> -->
+<!-- <div id="nav" class="navigation"> -->
+<nav class="nav-links">
+    <!-- <a href="#about">About Me</a> |
+    <a href="#experience">Experience</a> |
+    <a href="#skills">Skills</a> |
+    <a href="#contact">Contact</a> -->
+    <div class="nav-title">Roderick Wu</div>
+    <div class="nav-buttons">
         <button onclick="location.href='#about'">About</button>
         <button onclick="location.href='#experience'">Experience</button>
         <button onclick="location.href='#skills'">Skills</button>
         <button onclick="location.href='#contact'">Contact</button>
-    </nav>
-</div>
+    </div>
+</nav>
 
 <!-- ---
 
