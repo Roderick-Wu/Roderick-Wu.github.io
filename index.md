@@ -78,7 +78,7 @@ BASc in Engineering Science @ University of Toronto
         <p>I'm currently an Engineering Student at the University of Toronto.</p>
         <p>Currently working at AMD.</p>
         <p>I'm currently exploring AI architecture and understanding embedding space. I care about "opening up" these black boxes. </p>
-        <p>Most importantly, I'm always learning. </p>
+        <p>Most importantly, I'm always learning.</p>
     </div>
 </section>
 
@@ -95,6 +95,39 @@ BASc in Engineering Science @ University of Toronto
         </ul>
     </div>
 </section>
+
+<!-- <section id="experience" class="section-fullscreen">
+    <div>
+        <h1>Experience</h1>
+    </div>
+    <div id="experience-content" class="content">
+        <div onclick="toggleSection('exp_content_1')">
+            <h2><strong>University of Toronto</strong>: Research Assistant - Studying diffusion model models and its robotic applications</h2>
+            <div id="exp_content_1" class="content">
+                <li>Studying video generation for robotics applications. Investigating Diffusion/Consistency models with novel methods for refinement.</li>
+                <li>Extracting information from latent embeddings</li>
+            </div>
+        </div>
+        <div onclick="toggleSection('exp_content_2')">
+            <h2><strong>Advanced Micro Devices (AMD)</strong>: Analog Design Intern - Working on internal workflows capitalizing on machine learning techniques for silicon layout</h2>
+            <div id="exp_content_2" class="content">
+                <li></li>
+            </div>
+        </div>
+        <div onclick="toggleSection('exp_content_3')">
+            <h2><strong>University of Toronto</strong>: Research Assistant - Conducted research on novel structural sensing techniques</h2>
+            <div id="exp_content_3" class="content">
+                <li></li>
+            </div>
+        </div>
+        <div onclick="toggleSection('exp_content_4')">
+            <h2><strong>Diversio</strong>: Software Engineering Intern - Built products to advance AI applications</h2>
+            <div id="exp_content_4" class="content">
+                <li></li>
+            </div>
+        </div>
+    </div>
+</section> -->
 
 <section id="skills" class="section-fullscreen">
     <div>
