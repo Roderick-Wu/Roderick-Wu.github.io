@@ -3,12 +3,11 @@ layout: default
 title: "Home"
 ---
 
-
-# Hi, I'm Roderick
-
-I'm an Engineering Science student @ UofT specializing in Robotics. 
-
----
+<section id="title-card" class="section-fullscreen">
+    <div>
+        <htitle>hi, I'm Roderick</htitle>
+    </div>
+</section>
 
 <!-- <div id="nav" class="navigation"> -->
 <nav class="nav-links">
