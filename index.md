@@ -61,7 +61,7 @@ BASc in Engineering Science @ University of Toronto
 
 <body>
 
-<section id="about" class="section-fullscreen">
+<section id="about" class="section-fullscreen" class="bg-about">
     <div>
         <h2>🎓 About Me</h2>
     </div>
@@ -71,7 +71,7 @@ BASc in Engineering Science @ University of Toronto
     </div>
 </section>
 
-<section id="experience" class="section-fullscreen">
+<section id="experience" class="section-fullscreen" class="bg-experience">
     <div>
         <h2>💼 Experience</h2>
     </div>
@@ -85,7 +85,7 @@ BASc in Engineering Science @ University of Toronto
     </div>
 </section>
 
-<section id="skills" class="section-fullscreen">
+<section id="skills" class="section-fullscreen" class="bg-skills">
     <div>
         <h2>🧰 Skills</h2>
     </div>
@@ -99,7 +99,7 @@ BASc in Engineering Science @ University of Toronto
     <div>
         <h2>📫 Contact</h2>
     </div>
-    <div id="contact-content" class="content">
+    <div id="contact-content" class="content" class="bg-contact">
         <p>Email: <a href="roderick.y.wu@mail.utoronto.ca" target="_blank">roderick.wu@mail.utoronto.ca</a></p>
         <p>GitHub: <a href="https://github.com/Roderick-Wu" target="_blank">Roderick-Wu</a></p>
         <p>LinkedIn: <a href="https://www.linkedin.com/in/roderick--wu/" target="_blank">Roderick Wu</a></p>
