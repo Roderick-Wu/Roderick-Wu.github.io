@@ -59,7 +59,7 @@ BASc in Engineering Science @ University of Toronto
 
 
 
-
+<body>
 
 <section id="about" class="section-fullscreen">
     <div>
@@ -99,9 +99,11 @@ BASc in Engineering Science @ University of Toronto
     <div>
         <h2>📫 Contact</h2>
     </div>
-    <div id="contatct-content" class="content">
+    <div id="contact-content" class="content">
         <p>Email: <a href="roderick.y.wu@mail.utoronto.ca" target="_blank">roderick.wu@mail.utoronto.ca</p>
         <p>GitHub: <a href="https://github.com/Roderick-Wu" target="_blank">Roderick-Wu</a></p>
         <p>LinkedIn: <a href="https://www.linkedin.com/in/roderick--wu/" target="_blank">Roderick Wu</a></p>
     </div>
 </section>
+
+</body>
