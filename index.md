@@ -3,30 +3,6 @@ layout: default
 title: "Home"
 ---
 
-<!-- <div id="nav" class="navigation"> -->
-<nav class="nav-links">
-    <!-- <a href="#about">About Me</a> |
-    <a href="#experience">Experience</a> |
-    <a href="#skills">Skills</a> |
-    <a href="#contact">Contact</a> -->
-    <span class="nav-title">Roderick Wu</span>
-    <div class="nav-buttons">
-        <button onclick="location.href='#about'">About</button>
-        <button onclick="location.href='#experience'">Experience</button>
-        <button onclick="location.href='#skills'">Skills</button>
-        <button onclick="location.href='#contact'">Contact</button>
-    </div>
-</nav>
-
-
-<div class="nav-spacer"></div>
-
-<section id="title-card" class="section-fullscreen">
-    <div>
-        <htitle>hi, I'm Roderick</htitle>
-    </div>
-</section>
-
 
 
 <!-- ---
@@ -67,6 +43,31 @@ BASc in Engineering Science @ University of Toronto
 
 
 <body>
+
+<!-- <div id="nav" class="navigation"> -->
+<nav class="nav-links">
+    <!-- <a href="#about">About Me</a> |
+    <a href="#experience">Experience</a> |
+    <a href="#skills">Skills</a> |
+    <a href="#contact">Contact</a> -->
+    <span class="nav-title">Roderick Wu</span>
+    <div class="nav-buttons">
+        <button onclick="location.href='#about'">About</button>
+        <button onclick="location.href='#experience'">Experience</button>
+        <button onclick="location.href='#skills'">Skills</button>
+        <button onclick="location.href='#contact'">Contact</button>
+    </div>
+</nav>
+
+<div class="page-content">
+
+<div class="nav-spacer"></div>
+
+<section id="title-card" class="section-fullscreen">
+    <div>
+        <htitle>hi, I'm Roderick</htitle>
+    </div>
+</section>
 
 <section id="about" class="section-fullscreen">
     <div>
@@ -112,3 +113,7 @@ BASc in Engineering Science @ University of Toronto
         <p>LinkedIn: <a href="https://www.linkedin.com/in/roderick--wu/" target="_blank">Roderick Wu</a></p>
     </div>
 </section>
+
+</div>
+
+</body>
