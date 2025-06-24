@@ -65,8 +65,8 @@ BASc in Engineering Science @ University of Toronto
 
 <section id="title-card" class="section-fullscreen">
     <div>
-        <htitle>Hi, I'm Roderick</htitle>
-        <ttitle>Welcome to my personal website.</ttitle>
+        <h1 class="title-heading">Hi, I'm Roderick</h1>
+        <h2 class="title-subheading">Welcome to my personal website.</h2>
     </div>
 </section>
 
