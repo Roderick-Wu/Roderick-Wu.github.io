@@ -2,7 +2,7 @@
 
 This is my interactive resume website built using [Jekyll](https://jekyllrb.com/) and hosted via GitHub Pages.
 
-📍 Live at: https://yourusername.github.io
+📍 Live at: https://roderick-wu.github.io
 
 ## 🚀 Features
 
