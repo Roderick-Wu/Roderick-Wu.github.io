@@ -200,7 +200,23 @@ BASc in Engineering Science @ University of Toronto
 </section>
 
 <section id="test_chatbot" class="section-fullscreen">
+<h1>Chat with Bot</h1>
+  <textarea id="input" rows="4" cols="50"></textarea><br>
+  <button onclick="sendMessage()">Send</button>
+  <p><strong>Response:</strong> <span id="response"></span></p>
 
+  <script>
+    async function sendMessage() {
+      const message = document.getElementById("input").value;
+      const res = await fetch("https://65da78e74b23.ngrok-free.app/chat", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ message })
+      });
+      const data = await res.json();
+      document.getElementById("response").innerText = data.response;
+    }
+  </script>
 </section>
 
 </div>
