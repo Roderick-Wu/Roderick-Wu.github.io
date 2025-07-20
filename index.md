@@ -210,7 +210,7 @@ BASc in Engineering Science @ University of Toronto
   <script>
     async function sendMessage() {
       const message = document.getElementById("input").value;
-      const res = await fetch("https://65da78e74b23.ngrok-free.app/chat", {
+      const res = await fetch("https://f5e704e4cc74.ngrok-free.app/chat", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ message })
