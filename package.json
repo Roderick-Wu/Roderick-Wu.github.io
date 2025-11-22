@@ -1,0 +1,25 @@
+{
+  "name": "roderick-wu.github.io",
+  "version": "1.0.0",
+  "description": "This is my interactive resume website built using [Jekyll](https://jekyllrb.com/) and hosted via GitHub Pages.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "bundle exec jekyll serve --livereload",
+    "build": "bundle exec jekyll build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roderick-Wu/Roderick-Wu.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Roderick-Wu/Roderick-Wu.github.io/issues"
+  },
+  "homepage": "https://github.com/Roderick-Wu/Roderick-Wu.github.io#readme",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
